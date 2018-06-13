@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("test");
 	}
 	
-	public void deleteById(){};
+	public void deleteById(){}
+	
+	public void update(){}
 
 }
